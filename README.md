@@ -1,4 +1,4 @@
-![screenshot](https://github.com/rafarc/sunclock/raw/master/screenshot2.png)
+![screenshot](https://github.com/rafarc/sunclock/raw/main/screenshot2.png)
 
 Excerpt from the Sunclock README (complete version is in sunclock directory)
 --------------------------------
